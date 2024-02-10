@@ -1,0 +1,15 @@
+button{
+    background-color: #6527BE;
+    color: white;
+    border: 1px solid #6527BE;
+    padding: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+    width: 8rem;
+    font-size: larger;
+    font-family: "poppins";
+    margin: 8px;
+}
+button:hover{
+    background-color: #4d149d;
+}
